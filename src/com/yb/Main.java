@@ -1,6 +1,6 @@
 package com.yb;
 
-import com.yb.solid.Bird;
+import com.yb.solid.OpenClosed.Bird;
 import com.yb.solid.OpenClosed.Cat;
 import com.yb.solid.OpenClosed.Dog;
 import com.yb.solid.OpenClosed.Noise;

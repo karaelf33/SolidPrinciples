@@ -1,6 +1,4 @@
-package com.yb.solid;
-
-import com.yb.solid.OpenClosed.Noise;
+package com.yb.solid.OpenClosed;
 
 public class Bird  implements Noise {
     @Override
